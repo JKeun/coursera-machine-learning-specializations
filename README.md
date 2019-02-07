@@ -12,7 +12,7 @@ pyenv install 2.7.10
 
 ### Create and activate a new virtual environment
 ```
-# Create a virtual envrionment namged e.g ml-2.7
+# Create a virtual envrionment (named ml-2.7)
 pyenv virtualenv 2.7.10 ml-2.7
 
 # Activate virtualenv
